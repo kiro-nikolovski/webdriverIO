@@ -12,8 +12,6 @@ This project is an end-to-end testing setup using WebdriverIO with Mocha framewo
 - [Services](#services)
 - [Reporters](#reporters)
 - [TypeScript Configuration](#typescript-configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
